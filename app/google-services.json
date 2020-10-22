@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "696025763154",
+    "firebase_url": "https://mymes-6e6fe.firebaseio.com",
+    "project_id": "mymes-6e6fe",
+    "storage_bucket": "mymes-6e6fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696025763154:android:8b34aa797e05248c",
+        "android_client_info": {
+          "package_name": "com.example.user.mymes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696025763154-hd3n0dp1ob7ga6v3rs5fd2r5atn62atf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.mymes",
+            "certificate_hash": "d476fc0a8321eafd23b8858e38e13c4802d2a600"
+          }
+        },
+        {
+          "client_id": "696025763154-nm74cf6r03c86119vhbbi2jhfeoqun0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxbPSS5jvPWw93hOSo0ZFsy93sAu52YYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696025763154-nm74cf6r03c86119vhbbi2jhfeoqun0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
